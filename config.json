@@ -1,0 +1,67 @@
+[
+	{
+		"name":"KSGame01",
+		"type":[3],
+		"is_result":1,
+		"step":2,
+		"des":"9以内乘法2步填空"
+	},
+	{
+		"name":"KSGame02",
+		"type":[3],
+		"is_result":1,
+		"des":"表内除法填空"
+	},
+	{
+		"name":"KSGame03",
+		"type":[1,2],
+		"is_result":1,
+		"des":"加法进位，减法退位填空 "
+	},
+	{
+		"name":"KSGame04",
+		"type":[1,2],
+		"is_result":1,
+		"carry":0,
+		"des":"加法不进位，减法不退位填空 "
+	},
+	{
+		"name":"KSGame05",
+		"type":[-1],
+		"is_result":0,
+		"des":"9以内比大小"
+	},
+	{
+		"name":"KSGame06",
+		"type":[1,2],
+		"is_result":0,
+		"carry":0,
+		"des":"加法不进位、减法不退位计算"
+	},
+	{
+		"name":"KSGame07",
+		"type":[1,2],
+		"is_result":0,
+		"carry":1,
+		"des":"加法进位，减法退位计算"
+	},
+	{
+		"name":"KSGame08",
+		"type":[4],
+		"is_result":1,
+		"des":"9以内乘法填空 "
+	},
+	{
+		"name":"KSGame09",
+		"type":[1,2],
+		"is_result":1,
+		"des":"加、减法计算填空"
+	},
+	{
+		"name":"KSGame10",
+		"type":[3],
+		"is_result":0,
+		"step":2,
+		"des":"9以内乘法2步计算"
+	}
+]

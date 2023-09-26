@@ -1,0 +1,264 @@
+
+海底动画.png
+size: 2026, 1743
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_0
+  rotate: false
+  xy: 705, 1443
+  size: 844, 225
+  orig: 846, 227
+  offset: 1, 1
+  index: -1
+1_1
+  rotate: false
+  xy: 1525, 1670
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 104, 1711
+  size: 33, 30
+  orig: 35, 32
+  offset: 1, 1
+  index: -1
+1_29
+  rotate: false
+  xy: 733, 1689
+  size: 52, 52
+  orig: 54, 54
+  offset: 1, 1
+  index: -1
+1_3
+  rotate: false
+  xy: 139, 1711
+  size: 33, 30
+  orig: 35, 32
+  offset: 1, 1
+  index: -1
+1_4
+  rotate: false
+  xy: 139, 1711
+  size: 33, 30
+  orig: 35, 32
+  offset: 1, 1
+  index: -1
+1_31
+  rotate: false
+  xy: 2, 1718
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+1_32
+  rotate: false
+  xy: 174, 1711
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+1_35
+  rotate: false
+  xy: 174, 1711
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+1_33
+  rotate: false
+  xy: 787, 1689
+  size: 52, 52
+  orig: 54, 54
+  offset: 1, 1
+  index: -1
+1_34
+  rotate: false
+  xy: 447, 1701
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+1_43
+  rotate: true
+  xy: 466, 1464
+  size: 225, 237
+  orig: 225, 237
+  offset: 0, 0
+  index: -1
+1_44
+  rotate: true
+  xy: 573, 1691
+  size: 50, 158
+  orig: 50, 158
+  offset: 0, 0
+  index: -1
+1_45
+  rotate: true
+  xy: 1038, 1680
+  size: 61, 244
+  orig: 61, 244
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: false
+  xy: 404, 1704
+  size: 41, 37
+  orig: 43, 39
+  offset: 1, 1
+  index: -1
+1_53
+  rotate: true
+  xy: 1852, 1653
+  size: 88, 172
+  orig: 88, 172
+  offset: 0, 0
+  index: -1
+1_54
+  rotate: true
+  xy: 1611, 1667
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+1_55
+  rotate: true
+  xy: 1701, 1663
+  size: 78, 149
+  orig: 78, 149
+  offset: 0, 0
+  index: -1
+1_56
+  rotate: true
+  xy: 1353, 1679
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+1_57
+  rotate: false
+  xy: 2, 768
+  size: 1800, 253
+  orig: 1802, 255
+  offset: 1, 1
+  index: -1
+1_58
+  rotate: true
+  xy: 27, 1717
+  size: 24, 75
+  orig: 24, 75
+  offset: 0, 0
+  index: -1
+1_59
+  rotate: true
+  xy: 315, 1705
+  size: 36, 87
+  orig: 36, 87
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 1284, 1680
+  size: 67, 61
+  orig: 69, 63
+  offset: 1, 1
+  index: -1
+1_60
+  rotate: true
+  xy: 2, 1620
+  size: 89, 118
+  orig: 89, 118
+  offset: 0, 0
+  index: -1
+1_61
+  rotate: true
+  xy: 1449, 1677
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+1_62
+  rotate: true
+  xy: 122, 1616
+  size: 89, 118
+  orig: 89, 118
+  offset: 0, 0
+  index: -1
+1_63
+  rotate: true
+  xy: 206, 1707
+  size: 34, 107
+  orig: 34, 107
+  offset: 0, 0
+  index: -1
+1_64
+  rotate: true
+  xy: 841, 1689
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+1_65
+  rotate: true
+  xy: 489, 1700
+  size: 41, 82
+  orig: 41, 82
+  offset: 0, 0
+  index: -1
+1_66
+  rotate: true
+  xy: 917, 1684
+  size: 57, 119
+  orig: 57, 119
+  offset: 0, 0
+  index: -1
+1_67
+  rotate: true
+  xy: 431, 1023
+  size: 418, 592
+  orig: 420, 594
+  offset: 1, 1
+  index: -1
+1_68
+  rotate: false
+  xy: 2, 1099
+  size: 427, 378
+  orig: 429, 380
+  offset: 1, 1
+  index: -1
+1_69
+  rotate: false
+  xy: 242, 1479
+  size: 222, 220
+  orig: 224, 222
+  offset: 1, 1
+  index: -1
+1_70
+  rotate: false
+  xy: 1551, 1330
+  size: 336, 321
+  orig: 338, 323
+  offset: 1, 1
+  index: -1
+1_71
+  rotate: false
+  xy: 2, 2
+  size: 1654, 764
+  orig: 1656, 766
+  offset: 1, 1
+  index: -1
+
+海底动画_2.png
+size: 2029, 1189
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_72
+  rotate: false
+  xy: 2, 2
+  size: 2025, 1185
+  orig: 2027, 1187
+  offset: 1, 1
+  index: -1
