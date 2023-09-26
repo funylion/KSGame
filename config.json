@@ -47,7 +47,7 @@
 	},
 	{
 		"name":"KSGame08",
-		"type":[4],
+		"type":[3],
 		"is_result":1,
 		"des":"9以内乘法填空 "
 	},
@@ -63,5 +63,27 @@
 		"is_result":0,
 		"step":2,
 		"des":"9以内乘法2步计算"
+	},
+	{
+		"name":"KSUISceneGame1",
+		"type":[1,2],
+		"is_result":0,
+		"step":2,
+		"des":"连加，连减"
+	},
+	{
+		"name":"KSUISceneGame2",
+		"type":[-1],
+		"is_result":0,
+		"step":1,
+		"des":"5以内加减"
+	},
+	{
+		"name":"KSUISceneGame6",
+		"type":[1,2],
+		"is_result":0,
+		"step":1,
+		"des":"加、减法计算"
 	}
 ]
+
