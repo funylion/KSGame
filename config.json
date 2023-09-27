@@ -10,19 +10,25 @@
 		"name":"KSGame02",
 		"type":[3],
 		"is_result":1,
+		"step":1,
 		"des":"表内除法填空"
 	},
 	{
 		"name":"KSGame03",
 		"type":[1,2],
 		"is_result":1,
+		"step":1,
+		"carry":2,
+		"abdication":2,
 		"des":"加法进位，减法退位填空 "
 	},
 	{
 		"name":"KSGame04",
 		"type":[1,2],
 		"is_result":1,
-		"carry":0,
+		"step":1,
+		"carry":3,
+		"abdication":3,
 		"des":"加法不进位，减法不退位填空 "
 	},
 	{
@@ -35,19 +41,24 @@
 		"name":"KSGame06",
 		"type":[1,2],
 		"is_result":0,
-		"carry":0,
+		"step":1,
+		"carry":2,
+		"abdication":2,
 		"des":"加法不进位、减法不退位计算"
 	},
 	{
 		"name":"KSGame07",
 		"type":[1,2],
 		"is_result":0,
+		"step":1,
 		"carry":1,
+		"abdication":1,
 		"des":"加法进位，减法退位计算"
 	},
 	{
 		"name":"KSGame08",
 		"type":[3],
+		"step":1,
 		"is_result":1,
 		"des":"9以内乘法填空 "
 	},
@@ -55,6 +66,9 @@
 		"name":"KSGame09",
 		"type":[1,2],
 		"is_result":1,
+		"step":1,
+		"carry":1,
+		"abdication":1,
 		"des":"加、减法计算填空"
 	},
 	{
