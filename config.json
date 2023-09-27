@@ -104,6 +104,15 @@
 		"carry":1,
 		"abdication":1,
 		"des":"加、减法计算"
+	},
+	{
+		"name":"KSUISceneGame6",
+		"type":[1,2],
+		"is_result":0,
+		"step":1,
+		"carry":1,
+		"abdication":1,
+		"des":"加、减法计算"
 	}
 ]
 
