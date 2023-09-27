@@ -42,8 +42,8 @@
 		"type":[1,2],
 		"is_result":0,
 		"step":1,
-		"carry":2,
-		"abdication":2,
+		"carry":3,
+		"abdication":3,
 		"des":"加法不进位、减法不退位计算"
 	},
 	{
@@ -51,8 +51,8 @@
 		"type":[1,2],
 		"is_result":0,
 		"step":1,
-		"carry":1,
-		"abdication":1,
+		"carry":2,
+		"abdication":2,
 		"des":"加法进位，减法退位计算"
 	},
 	{
@@ -95,15 +95,6 @@
 		"carry":1,
 		"abdication":1,
 		"des":"5以内加减"
-	},
-	{
-		"name":"KSUISceneGame6",
-		"type":[1,2],
-		"is_result":0,
-		"step":1,
-		"carry":1,
-		"abdication":1,
-		"des":"加、减法计算"
 	},
 	{
 		"name":"KSUISceneGame6",
