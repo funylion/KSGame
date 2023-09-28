@@ -88,6 +88,42 @@
 		"des":"连加，连减"
 	},
 	{
+		"name":"KSGame12",
+		"type":[-1],
+		"is_result":0,
+		"step":2,
+		"carry":1,
+		"abdication":1,
+		"des":"9内比多少"
+	},
+	{
+		"name":"KSGame13",
+		"type":[-1],
+		"is_result":0,
+		"step":2,
+		"carry":1,
+		"abdication":1,
+		"des":"9内排顺序"
+	},
+	{
+		"name":"KSGame14",
+		"type":[-1],
+		"is_result":0,
+		"step":2,
+		"carry":1,
+		"abdication":1,
+		"des":"9内3个数比大小"
+	},
+	{
+		"name":"KSGame15",
+		"type":[-1],
+		"is_result":0,
+		"step":2,
+		"carry":1,
+		"abdication":1,
+		"des":"5以内加减填空"
+	},
+	{
 		"name":"KSUISceneGame1",
 		"type":[1,2],
 		"is_result":0,
