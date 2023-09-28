@@ -1,0 +1,27 @@
+
+波浪动画，船浮动，鱼游（循环）.png
+size: 1743, 508
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_0
+  rotate: false
+  xy: 2, 62
+  size: 1739, 58
+  orig: 1739, 58
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: false
+  xy: 2, 2
+  size: 1739, 58
+  orig: 1739, 58
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 2, 122
+  size: 1676, 384
+  orig: 1676, 384
+  offset: 0, 0
+  index: -1

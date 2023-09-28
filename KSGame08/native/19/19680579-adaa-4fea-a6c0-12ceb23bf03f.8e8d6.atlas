@@ -1,0 +1,48 @@
+
+管道吞东西动画.png
+size: 1758, 468
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_0
+  rotate: false
+  xy: 1338, 76
+  size: 248, 224
+  orig: 250, 226
+  offset: 1, 1
+  index: -1
+1_1
+  rotate: false
+  xy: 1086, 74
+  size: 250, 226
+  orig: 250, 226
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: true
+  xy: 1086, 302
+  size: 92, 526
+  orig: 94, 528
+  offset: 1, 1
+  index: -1
+1_4
+  rotate: true
+  xy: 1086, 302
+  size: 92, 526
+  orig: 94, 528
+  offset: 1, 1
+  index: -1
+1_5
+  rotate: false
+  xy: 2, 2
+  size: 1082, 392
+  orig: 1082, 392
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 2, 396
+  size: 1754, 70
+  orig: 1754, 70
+  offset: 0, 0
+  index: -1

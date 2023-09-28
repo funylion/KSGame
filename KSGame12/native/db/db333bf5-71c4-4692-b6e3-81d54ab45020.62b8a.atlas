@@ -1,0 +1,132 @@
+
+动物动画.png
+size: 1741, 1506
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_0
+  rotate: false
+  xy: 1628, 387
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: false
+  xy: 1628, 387
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+1_10
+  rotate: false
+  xy: 1628, 406
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: true
+  xy: 1628, 432
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: true
+  xy: 1628, 500
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 1628, 528
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+1_49
+  rotate: true
+  xy: 1628, 553
+  size: 164, 31
+  orig: 164, 31
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: false
+  xy: 1628, 719
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+1_50
+  rotate: true
+  xy: 1628, 890
+  size: 238, 63
+  orig: 240, 65
+  offset: 1, 1
+  index: -1
+1_51
+  rotate: true
+  xy: 1628, 783
+  size: 105, 63
+  orig: 107, 65
+  offset: 1, 1
+  index: -1
+1_52
+  rotate: true
+  xy: 1628, 783
+  size: 105, 63
+  orig: 107, 65
+  offset: 1, 1
+  index: -1
+1_53
+  rotate: true
+  xy: 1628, 1130
+  size: 225, 97
+  orig: 227, 99
+  offset: 1, 1
+  index: -1
+1_54
+  rotate: false
+  xy: 2, 754
+  size: 1624, 750
+  orig: 1626, 752
+  offset: 1, 1
+  index: -1
+1_55
+  rotate: false
+  xy: 2, 2
+  size: 1624, 750
+  orig: 1626, 752
+  offset: 1, 1
+  index: -1
+1_6
+  rotate: true
+  xy: 1628, 1357
+  size: 147, 111
+  orig: 147, 111
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 1628, 361
+  size: 13, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: false
+  xy: 1628, 318
+  size: 11, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+1_9
+  rotate: false
+  xy: 1628, 338
+  size: 13, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+龙眨眼，海浪动画.png
+size: 2030, 2009
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_0
+  rotate: true
+  xy: 1863, 1039
+  size: 570, 150
+  orig: 572, 152
+  offset: 1, 1
+  index: -1
+1_1
+  rotate: false
+  xy: 1863, 1611
+  size: 156, 170
+  orig: 156, 170
+  offset: 0, 0
+  index: -1
+1_10
+  rotate: false
+  xy: 2, 2
+  size: 1626, 377
+  orig: 1626, 377
+  offset: 0, 0
+  index: -1
+1_11
+  rotate: false
+  xy: 1863, 951
+  size: 123, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+1_12
+  rotate: false
+  xy: 1863, 1783
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1
+1_13
+  rotate: true
+  xy: 1112, 382
+  size: 1625, 749
+  orig: 1625, 749
+  offset: 0, 0
+  index: -1
+1_14
+  rotate: true
+  xy: 2, 381
+  size: 1626, 752
+  orig: 1626, 752
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 1863, 771
+  size: 116, 178
+  orig: 116, 178
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 1863, 1895
+  size: 162, 112
+  orig: 162, 112
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 1988, 1005
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: false
+  xy: 1988, 969
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: true
+  xy: 1919, 688
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: true
+  xy: 2015, 1590
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: false
+  xy: 1630, 74
+  size: 287, 306
+  orig: 287, 306
+  offset: 0, 0
+  index: -1
+1_9
+  rotate: true
+  xy: 756, 381
+  size: 1626, 354
+  orig: 1626, 354
+  offset: 0, 0
+  index: -1
